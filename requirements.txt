@@ -1,0 +1,3 @@
+pyusb>=1.3.1
+libusb-package>=1.0.30.1
+pyinstaller>=6.22
